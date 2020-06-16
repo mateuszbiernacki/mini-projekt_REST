@@ -34,9 +34,7 @@ def post_product(name, kcal):
 
 
 if __name__ == "__main__":
-#    get_kcal('1')
-#    get_counter()
+
     get_all()
     post_product('Pizza Hut Pepperoni Pizza', 291)
-#    get_count()
     get_all()
